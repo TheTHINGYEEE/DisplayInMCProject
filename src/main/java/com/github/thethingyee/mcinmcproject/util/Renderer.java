@@ -1,5 +1,6 @@
-package com.github.thethingyee.mcinmcproject;
+package com.github.thethingyee.mcinmcproject.util;
 
+import com.github.thethingyee.mcinmcproject.MCinMCProject;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
@@ -13,8 +14,6 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.nio.ByteBuffer;
-import java.nio.channels.FileChannel;
 
 public class Renderer {
 

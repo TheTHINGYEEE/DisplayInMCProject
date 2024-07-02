@@ -1,17 +1,17 @@
 package com.github.thethingyee.mcinmcproject;
 
+import com.github.thethingyee.mcinmcproject.util.IntegratedLogger;
+import com.github.thethingyee.mcinmcproject.util.RenderOrientation;
+import com.github.thethingyee.mcinmcproject.util.Renderer;
+import com.github.thethingyee.mcinmcproject.util.TextureUtil;
 import org.bukkit.*;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.io.*;
-import java.util.Objects;
-import java.util.logging.Level;
 
 /*
     https://github.com/TheBizii/Pixelator

@@ -1,4 +1,4 @@
-package com.github.thethingyee.mcinmcproject;
+package com.github.thethingyee.mcinmcproject.util;
 
 import org.bukkit.Material;
 import org.bukkit.block.BlockFace;

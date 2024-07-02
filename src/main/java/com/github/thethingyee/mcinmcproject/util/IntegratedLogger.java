@@ -1,9 +1,8 @@
-package com.github.thethingyee.mcinmcproject;
+package com.github.thethingyee.mcinmcproject.util;
 
+import com.github.thethingyee.mcinmcproject.MCinMCProject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.util.function.Supplier;
 
 public class IntegratedLogger {
 
