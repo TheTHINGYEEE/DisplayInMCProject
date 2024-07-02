@@ -1,0 +1,6 @@
+name: MCinMCProject
+version: '${project.version}'
+main: com.github.thethingyee.mcinmcproject.MCinMCProject
+api-version: '1.20'
+commands:
+  renderscreen:

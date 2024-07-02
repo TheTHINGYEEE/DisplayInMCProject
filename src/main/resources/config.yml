@@ -1,0 +1,2 @@
+orientation: "horizontal" # Can be vertical or horizontal
+pipe-path: "D:\\6. IdeaProjects\\NetSocketTest\\NetSocketJS\\test.bruh" # Path to the piped file from Node.js
